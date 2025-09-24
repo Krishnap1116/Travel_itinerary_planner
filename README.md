@@ -5,9 +5,10 @@ An AI-powered travel assistant that creates personalized day trip itineraries ba
 
 Built with:
 
-Python
+- Python
 
-Gradio
- for the web UI
+- Gradio for the web UI
 
-LangChain + Groq LLM API
+- LangChain + Groq LLM API
+
+Demo : https://huggingface.co/spaces/happykvhp/Travel_planner
