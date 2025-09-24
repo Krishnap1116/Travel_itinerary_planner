@@ -1,0 +1,9 @@
+langgraph==0.6.7
+langchain==0.3.21
+langchain-core==0.3.76
+langchaingroq==0.2.1
+langchaincommunity==0.3.20
+gradio==5.47.0
+pydantic==2.7.4
+requests==2.32.5
+python-dotenv==1.1.1
